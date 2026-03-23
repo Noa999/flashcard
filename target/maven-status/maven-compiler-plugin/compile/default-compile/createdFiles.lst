@@ -1,0 +1,7 @@
+com\flashcard\RandomSorter.class
+com\flashcard\Card.class
+com\flashcard\WorstFirstSorter.class
+com\flashcard\CardOrganizer.class
+com\flashcard\RecentMistakesFirstSorter.class
+com\flashcard\AchievementTracker.class
+com\flashcard\App.class
